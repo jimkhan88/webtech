@@ -22,8 +22,7 @@
 <div style="display: flex; justify-content: center">
 
 <h1>Google</h1>
-<h1>Google</h1>
-<h1>Google</h1>
+
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center">
