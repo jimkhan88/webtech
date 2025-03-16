@@ -41,5 +41,8 @@ box 3
 <div style="background-color: red; height: 300px; width: 150px">
 Box 2
 </div>
+<div style="background-color: red; height: 300px; width: 150px">
+Box 2
+</div>
 </body>
 </html>
